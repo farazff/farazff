@@ -1,5 +1,6 @@
 ### Hi there 👋
 [![](https://img.shields.io/badge/-gmail-lightgray?style=for-the-badge&logo=gmail)](mailto:f.farangizadeg@gmail.com)
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/faraz-farangizadeh-49b9001a4/]
 
 
 
