@@ -10,6 +10,8 @@
 [![](https://img.shields.io/badge/-php-orange?style=for-the-badge&logo=php)](https://www.python.org/)
 [![](https://img.shields.io/badge/-laravel-orange?style=for-the-badge&logo=laravel)](https://www.python.org/)
 [![](https://img.shields.io/badge/-css-orange?style=for-the-badge&logo=css)](https://www.python.org/)
+[![](https://img.shields.io/badge/-mysql-orange?style=for-the-badge&logo=mysql)](https://www.python.org/)
+[![](https://img.shields.io/badge/-redis-orange?style=for-the-badge&logo=redis)](https://www.python.org/)
 
 
 
