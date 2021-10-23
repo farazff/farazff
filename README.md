@@ -4,7 +4,7 @@
  
 ## Languages & Technologies
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farazff&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farazff&theme=tokyonight&hide=html)
 
 
 
