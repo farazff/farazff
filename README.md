@@ -1,7 +1,7 @@
+### Hi there 👋
+[![](https://img.shields.io/badge/-gmail-lightgray?style=for-the-badge&logo=gmail)](mailto:f.farangizadeg@gmail.com)
 
-# FARAZFF
 
-## Contact Me
 
 
 ## Statistics
