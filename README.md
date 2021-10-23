@@ -3,10 +3,7 @@
 
  
 ## Languages & Technologies
-
-<p align="center">
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farazff&theme=tokyonight&hide=html)
-</p>
 
 
 ## Statistics
