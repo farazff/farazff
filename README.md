@@ -1,7 +1,10 @@
 ### Hi there 👋
 [![](https://img.shields.io/badge/-gmail-lightgray?style=for-the-badge&logo=gmail)](mailto:f.farangizadeg@gmail.com)
-[![][https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555]](https://www.linkedin.com/in/faraz-farangizadeh-49b9001a4/)
 
+ 
+## Languages & Technologies
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farazff&theme=tokyonight)
 
 
 
