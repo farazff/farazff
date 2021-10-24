@@ -21,3 +21,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farazff&theme=dracula&hide=html" alt="Faraz Farangiadeh's GitHub stats" /><br />
 
 </p>
+
+![Profile views](https://komarev.com/ghpvc/?username=farazff&color=dc143c)
