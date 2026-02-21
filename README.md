@@ -26,35 +26,20 @@ embeddings, vector search, and deep learning.
 
 ## 🛠 Tech Stack  
 
-**Languages**
-
-[![](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)  
-[![](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-
-**Infrastructure & Cloud**
-
-[![](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)  
-[![](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-
-**Data & Streaming**
-
-[![](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)  
-[![](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)  
-[![](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
-
-**ML / Vector Search**
-
-[![](https://img.shields.io/badge/-Qdrant-FF4F8B?style=for-the-badge)](https://qdrant.tech/)  
-[![](https://img.shields.io/badge/-Embeddings-6A5ACD?style=for-the-badge)]()  
-[![](https://img.shields.io/badge/-Deep%20Learning-0A0A0A?style=for-the-badge)]()
+| **Languages** | **Backend & Data** | **Infrastructure** | **ML / AI** |
+|--------------|--------------------|--------------------|-------------|
+| ![](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) | ![](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) | ![](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![](https://img.shields.io/badge/-Deep%20Learning-0A0A0A?style=for-the-badge) |
+| ![](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) | ![](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) | ![](https://img.shields.io/badge/-Embeddings-6A5ACD?style=for-the-badge) |
+|  | ![](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |  | ![](https://img.shields.io/badge/-Qdrant-FF4F8B?style=for-the-badge) |
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farazff&show_icons=true&theme=dracula" /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farazff&theme=dracula&hide=html" />
+  <img src="https://github-readme-stats.vercel.app/api?username=farazff&show_icons=true&theme=dracula&cache_seconds=86400" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farazff&theme=dracula&layout=compact&cache_seconds=86400" />
 </p>
 
 ---
